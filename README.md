@@ -1,6 +1,6 @@
 # Hola, I am Irvan Denata 👨‍💻
 
-I am a Fullstack Engineer with 3 years of experience, hailing from West Kalimantan, Indonesia. My current primary focus is on mobile application development
+I am a Fullstack Engineer with 3 years of experience, hailing from West Kalimantan, Indonesia.
 
 ### 🔭 Have a look at my [website](https://ivd.my.id/).
 
